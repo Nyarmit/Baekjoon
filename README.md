@@ -3,7 +3,7 @@
 This repository contains solutions to Baekjoon Online Judge problems, organized by tier.
 
 ## 🥉 Bronze
-- [2557 - Hello World](Bronze/2557_Hello World.py)
+- [2557 - Hello World](Bronze/2557_Hello%20World.py)
 - 
 
 ## 🥈 Silver
