@@ -1,5 +1,5 @@
 # Hello World
-# Bronze 5
+# Bronze V
 # No. 2557
 
 print("Hello World!")
