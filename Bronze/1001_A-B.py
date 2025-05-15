@@ -1,4 +1,4 @@
-# A - B
+# A-B
 # No. 1001
 # Bronze 5
 
